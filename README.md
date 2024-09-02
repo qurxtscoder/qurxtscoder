@@ -5,7 +5,7 @@
 
 - 💭 I want to learn **React, Node.JS**
 
-- 📫 How to reach me **Discord: qurxts**
+- 📫 How to reach me **Discord: "qurxts."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
